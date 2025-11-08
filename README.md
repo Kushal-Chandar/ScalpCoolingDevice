@@ -1,4 +1,4 @@
-# 🧊 Scalp Cooling Cap — Dual‑Patient Temperature‑Controlled System
+# 🧊 Scalp Cooling System — Dual‑Patient
 
 [![STM32](https://img.shields.io/badge/MCU-STM32G030C8-03234B?logo=stmicroelectronics)]()
 [![C](https://img.shields.io/badge/Firmware-C-blue?logo=c)]()
