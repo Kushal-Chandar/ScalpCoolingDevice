@@ -8,6 +8,13 @@
 
 A compact, dual‑patient **scalp cooling controller** that maintains precise scalp temperature during chemotherapy to reduce hair loss.
 
+
+- [🧊 Scalp Cooling System — Dual‑Patient](#-scalp-cooling-system--dualpatient)
+  - [Features](#features)
+  - [Hardware](#hardware)
+  - [Demo](#demo)
+
+
 <p align="center"> <img alt="Cooling Prototype" src="assets/cooling_cap_1.png" width="360"> </p>
 
 ## Features
