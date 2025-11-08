@@ -32,7 +32,11 @@ A compact, dual‑patient **scalp cooling controller** that maintains precise sc
 
 ## Demo
 
-🎥 [Demo Video](assets/demo_edited.mp4)
+
+
+https://github.com/user-attachments/assets/61aa7489-9105-4390-ae82-b809af393d0d
+
+
 
 ---
 
