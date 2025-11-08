@@ -20,10 +20,12 @@ A compact, dual‑patient **scalp cooling controller** that maintains precise sc
 ## Features
 
 - Independent temperature control for 2 patients  
-- Non‑PID compressor and pump control for fast response  
+- Non‑PID compressor control to maintain a temperature range
 - Multi‑level alarms and automatic safety shutdown  
 - Real‑time monitoring of temperature, pressure, and flow  
 - UART telemetry with live Python plots and CSV data logging
+
+<p align="center"> <img alt="System Diagram" src="assets/cooling_cap_2.png" width="360"> </p>
 
 ## Hardware
 
@@ -35,7 +37,9 @@ A compact, dual‑patient **scalp cooling controller** that maintains precise sc
 | Interface | UART for data streaming |
 | Tools | STM32CubeIDE, CubeMX, Python (matplotlib, pandas) |
 
-<p align="center"> <img alt="System Diagram" src="assets/cooling_cap_2.png" width="360"> </p>
+<p align="center"> <img alt="Cooling Prototype" src="assets/cooling_cap_3.png" width="360"> </p>
+
+
 
 ## Demo
 
