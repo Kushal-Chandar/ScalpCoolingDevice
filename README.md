@@ -19,7 +19,7 @@ A compact, dual‑patient **scalp cooling controller** that maintains precise sc
 
 ## Features
 
-- Independent temperature control for 2 patients  
+- Independent pump control for 2 patients  
 - Non‑PID compressor control to maintain a temperature range
 - Multi‑level alarms and automatic safety shutdown  
 - Real‑time monitoring of temperature, pressure, and flow  
